@@ -8,7 +8,7 @@ AutoGen simplifies the integration of large language models (LLMs) such as GPT-3
 
 DuckDuckGo (DDG) is an American software company that offers a number of software products oriented towards helping people protect their privacy online, most notably, a private search engine, a tracker-blocking browser extension, email protection, and app tracking protection.
 
-** Reasons for using CrewAI over AutoGen**
+**Reasons for using CrewAI over AutoGen**
 1. CrewAI stands out in adaptability for real-world scenarios. Its methods are designed to be versatile and collaborative, compared to autogen.
 2. Crewai was more approachable and easy to get around with, while AutoGen was much more complicating to my work. etc.
 
