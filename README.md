@@ -1,5 +1,5 @@
 # Odingo_AI_assessment
-AI Job assessment
+
 Large language models are sophisticated AI systems trained on extensive text datasets, acquiring a deep understanding of human language. These models process and respond to instructions in everyday speech, functioning as highly knowledgeable assistants. This user-friendly interaction paradigm enables even non-experts to utilize AI's advanced capabilities seamlessly.
 
 Crew AI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, This agent workflow empowers agents to work together seamlessly, tackling complex tasks. It provides the backbone for sophisticated multi-agent interactions. The power of AI collaborations has too much to offer in creating agents that work together with goals and tasks.
